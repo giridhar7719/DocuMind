@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+tiktoken
+numpy
+requests
+beautifulsoup4
+tqdm

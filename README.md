@@ -152,5 +152,5 @@ Understanding these components is essential for building **production-grade AI s
 
 # Author
 
-Giridhar
+Venkata Giridhar Reddy
 AI Engineer focused on Generative AI and RAG systems
